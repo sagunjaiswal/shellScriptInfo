@@ -1,3 +1,10 @@
+#  * * * * * *
+#  *         *
+#  *         *
+#  *         *
+#  *         *
+#  * * * * * *
+
 echo "Enter the value of n : "
 read n
 clear
